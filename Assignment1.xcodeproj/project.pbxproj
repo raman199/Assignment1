@@ -13,6 +13,7 @@
 		0474E129233C3AF400501B71 /* Assignment1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0474E127233C3AF400501B71 /* Assignment1.xcdatamodeld */; };
 		0474E12B233C3AF600501B71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0474E12A233C3AF600501B71 /* Assets.xcassets */; };
 		0474E12E233C3AF600501B71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0474E12C233C3AF600501B71 /* LaunchScreen.storyboard */; };
+		04C55DC32342FED7001D7F1C /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C55DC22342FED7001D7F1C /* Operation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0474E12A233C3AF600501B71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0474E12D233C3AF600501B71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0474E12F233C3AF600501B71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04C55DC22342FED7001D7F1C /* Operation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0474E12C233C3AF600501B71 /* LaunchScreen.storyboard */,
 				0474E12F233C3AF600501B71 /* Info.plist */,
 				0474E127233C3AF400501B71 /* Assignment1.xcdatamodeld */,
+				04C55DC22342FED7001D7F1C /* Operation.swift */,
 			);
 			path = Assignment1;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				0474E123233C3AF400501B71 /* ViewController.swift in Sources */,
 				0474E129233C3AF400501B71 /* Assignment1.xcdatamodeld in Sources */,
 				0474E121233C3AF400501B71 /* AppDelegate.swift in Sources */,
+				04C55DC32342FED7001D7F1C /* Operation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
